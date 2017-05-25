@@ -1,5 +1,3 @@
-require 'rake'
-
 Gem::Specification.new do |s|
   s.name = 'ruby-continent'
   s.version = '0.1.0'
